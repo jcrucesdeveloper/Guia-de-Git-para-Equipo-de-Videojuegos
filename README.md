@@ -7,14 +7,28 @@ Git es un sistema de control de versiones que permite a un equipo de trabajo ges
 
 
 ## ¿Cómo usar GIT?
+
 GIT utiliza un sistema de ramas para controlar las versiones del proyecto.
+
+### Sistema de Ramas (Branches)
  
 Cada proyecto comienza con una rama inicial usualmente llamada: **main o master**
-![Mi Imagen](main.png)
+![Main](main.png)
 
 Esta rama por convención trae la versión definitiva del proyecto, es decir, la versión que sera la llevada a producción.
 
 > **OJO:** MUCHO CUIDADO CON SUBIR CUALQUIER CAMBIO A ESA RAMA!!
+
+Dado que no queremos que cualquier cambio pase a **main** lo que usualmente se hace es trabajar en una rama aparte. 
+
+En general, se le pone un nombre con el cambio a subir e.g:
+
+- feature/mecanica 
+- fix/arreglo-de-bugs
+- music/tema-principal
+- feature/modelo3d-casa
+
+![Feature-Mecanica](featuremecanica.png)
 
 
 

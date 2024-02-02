@@ -35,7 +35,18 @@ Perfecto, ahora ya entiendes que no tienes que trabajar en main (en serio,no tra
 
 ### Moverte de Rama y Crear otra Rama
 
-Normalmente al clonar un repositorio de GITHUB se te dira en que rama estas parado:
+Normalmente al clonar un repositorio de Github se te dira en que rama estas parado:
+
+![Rama Main](ramamain.png)
+
+Presionamos ahi para crear una rama
+![Nueva Rama](nuevarama.png)
+
+Le ponemos un nombre y la creamos
+![Nombre Rama](nombrerama.png)
+
+
+
 
 
 

@@ -39,14 +39,18 @@ Normalmente al clonar un repositorio de Github se te dira en que rama estas para
 
 ![Rama Main](ramamain.png)
 
+
 Presionamos ahi para crear una rama
 ![Nueva Rama](nuevarama.png)
+
 
 Le ponemos un nombre y la creamos
 ![Nombre Rama](nombrerama.png)
 
+
 Publicamos la rama para que todos la puedan ver
 ![Publish rama](publishrama.png)
+
 
 Verificamos que hemos cambiado de Rama
 ![Cambio Rama](cambiorama.png)

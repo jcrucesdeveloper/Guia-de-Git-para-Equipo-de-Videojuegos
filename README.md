@@ -31,7 +31,7 @@ En general, se le pone un nombre con el cambio a subir e.g:
 ![Feature-Mecanica](featuremecanica.png)
 
 
-Perfecto, ahora ya entiendes que no tienes que trabajar en main (en serio,no trabajes en main) ¿Qué viene a continuación?
+Perfecto, ahora ya entiendes que no tienes que trabajar en main (en serio, no trabajes en main) ¿Qué viene a continuación?
 
 ### Moverte de Rama y Crear otra Rama
 
@@ -44,8 +44,10 @@ Presionamos ahi para crear una rama
 
 Le ponemos un nombre y la creamos
 ![Nombre Rama](nombrerama.png)
+
 Publicamos la rama para que todos la puedan ver
 ![Publish rama](publishrama.png)
+
 Verificamos que hemos cambiado de Rama
 ![Cambio Rama](cambiorama.png)
 

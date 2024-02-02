@@ -12,6 +12,11 @@ GIT utiliza un sistema de ramas para controlar las versiones del proyecto.
 Cada proyecto comienza con una rama inicial usualmente llamada: **main o master**
 ![Mi Imagen](main.png)
 
+Esta rama por convención trae la versión definitiva del proyecto, es decir, la versión que sera la llevada a producción.
+
+> **OJO:** MUCHO CUIDADO CON SUBIR CUALQUIER CAMBIO A ESA RAMA!!
+
+
 
 
 

@@ -31,9 +31,11 @@ En general, se le pone un nombre con el cambio a subir e.g:
 ![Feature-Mecanica](featuremecanica.png)
 
 
-Perfecto, ahora ya entiendes que no tienes que trabajar en main (por favor no trabajes en main) ¿y ahora que?
+Perfecto, ahora ya entiendes que no tienes que trabajar en main (en serio,no trabajes en main) ¿Qué viene a continuación?
 
-Normalmente al clonar un repositorio de Github se te dira en que rama estas parado, para moverte a otra rama y crearla tienes que hacer lo siguiente
+### Moverte de Rama y Crear otra Rama
+
+Normalmente al clonar un repositorio de GITHUB se te dira en que rama estas parado:
 
 
 

@@ -68,13 +68,18 @@ Muy bien, ya nos hemos cambiado a una rama donde podemos subir cosas sin tener m
 
 Los commits en GIT representan una serie de cambios en un momento fijo de tiempo, es decir, es como si le tomaran una foto al proyecto en un instante preciso y lo guardaran en un paquete para subirlo.
 
- Los commits usualmente son representados como circulitos en una rama. En la siguiente imagen las ramas main y la rama feature/mecanica tienen un commit: 
+ Los commits usualmente son representados como circulitos en una rama. En la siguiente imagen la rama **main** y la rama **feature/mecanica** tienen un commit: 
 
 ![1Commit](featuremecanica.png)
 
-Supongamos que creamos un commit en la rama feature/mecanica para avanzar en la mecanica, luego la imagen se veria de la siguiente forma:
+Supongamos que creamos un commit en la rama **feature/mecanica** para avanzar en la mecanica principal del juego, luego la imagen se veria de la siguiente forma:
 
 ![2Commit](2commits.png)
+
+### ¿Cómo realizamos un commits?
+Supongamos que hago un cambio en **feature/mecanica**. En este caso, creo un archivo llamado cambio.txt
+
+> **OJO:** Los cambios no son solo código, puede ser subir modelado 3D, arte o música. En general cualquier archivo agregado, borrado o modificado cuenta como cambio
 
 
 

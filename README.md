@@ -55,6 +55,10 @@ Publicamos la rama para que todos la puedan ver
 Verificamos que hemos cambiado de Rama
 ![Cambio Rama](cambiorama.png)
 
+Enhorabuena, has cambiado de rama y ya no tienes que preocupar que tus cambios hagan explotar el proyecto. Dado que si no estas en main, no afecta a la version productiva!!!!!!! Wojoooo!!
+
+![Explosion](explosion.png)
+
 
 
 

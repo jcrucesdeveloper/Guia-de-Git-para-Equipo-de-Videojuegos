@@ -55,9 +55,28 @@ Publicamos la rama para que todos la puedan ver
 Verificamos que hemos cambiado de Rama
 ![Cambio Rama](cambiorama.png)
 
-Enhorabuena, has cambiado de rama y ya no tienes que preocupar que tus cambios hagan explotar el proyecto. Dado que si no estas en main, no afecta a la version productiva!!!!!!! Wojoooo!!
+Enhorabuena, has cambiado de rama y ya no tienes que preocuparte que tus cambios hagan explotar el proyecto. Dado que si no estas en main, no afecta a la version productiva!!!!!!! Wojoooo!!
 
 ![Explosion](explosion.png)
+
+## ¿Cómo subir Cambios?
+
+Muy bien, ya nos hemos cambiado a una rama donde podemos subir cosas sin tener miedo a que rompan el proyecto. Ahora aprenderemos como subir cambios
+
+
+### Sistemas de commits
+
+Los commits en GIT representan una serie de cambios en un momento fijo de tiempo, es decir, es como si le tomaran una foto al proyecto en un instante preciso y lo guardaran en un paquete para subirlo.
+
+ Los commits usualmente son representados como circulitos en una rama. En la siguiente imagen las ramas main y la rama feature/mecanica tienen un commit: 
+
+![1Commit](featuremecanica.png)
+
+Supongamos que creamos un commit en la rama feature/mecanica para avanzar en la mecanica, luego la imagen se veria de la siguiente forma:
+
+![2Commit](2commits.png)
+
+
 
 
 

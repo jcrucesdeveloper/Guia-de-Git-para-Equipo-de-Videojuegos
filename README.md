@@ -81,6 +81,21 @@ Supongamos que hago un cambio en **feature/mecanica**. En este caso, creo un arc
 
 > **OJO:** Los cambios no son solo código, puede ser subir modelado 3D, arte o música. En general cualquier archivo agregado, borrado o modificado cuenta como cambio
 
+Al abrir nuestro Github for Windows, nos aparecera los cambios reflejados. En este caso en la esquina izquierda nos permite crear un commit con los cambios que hemos hecho hasta ese momento
+
+
+![Cambios](commitcambio.png)
+
+Al commit le agregamos una titulo y una descripción clara para que todo el equipo pueda entender lo que hicimos
+
+![Commit Descripcion](commitdescripcion.png)
+
+Finalmente creamos el commit, al crear el commit tan solo nuestro repositorio local tendra este cambio (Solo hemos hecho este cambio en nuestra computadora). Para pasar este commit local al repositorio de Github tendremos que hacer *push*
+
+
+En este caso Github for Windows nos entrega la opción de *push origin* la cual sube nuestro commit local al repositorio que se encuentra en Github para que todo nuestro equipo pueda verlo
+
+![Hacer Push](commitpushear.png)
 
 
 

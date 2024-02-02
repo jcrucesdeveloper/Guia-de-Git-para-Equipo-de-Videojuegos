@@ -46,6 +46,8 @@ Le ponemos un nombre y la creamos
 ![Nombre Rama](nombrerama.png)
 Publicamos la rama para que todos la puedan ver
 ![Publish rama](publishrama.png)
+Verificamos que hemos cambiado de Rama
+![Cambio Rama](cambiorama.png)
 
 
 
